@@ -1,0 +1,22 @@
+{
+  "name": "proffessional-readme",
+  "version": "1.0.0",
+  "description": "[How to create a Professional README](./readme-guide.md)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanPerezRWS/proffessional-README.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanPerezRWS/proffessional-README/issues"
+  },
+  "homepage": "https://github.com/IvanPerezRWS/proffessional-README#readme",
+  "dependencies": {
+    "inquirer": "^8.1.2"
+  }
+}
