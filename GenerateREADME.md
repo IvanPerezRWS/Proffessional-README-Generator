@@ -14,13 +14,13 @@
 #IvanPerezRWS
 
 # Description
-#Takes in user input to create README
+#Takes user input and creates a README
 
 # Install
-#1. Clone Repo 2. npm install dependencies 3.node index.js 
+#1) Clone repo 2) INstall dependencies 3) command line node index.js
 
 # Usage
-#To create Proffessional readmes of consistent quality.
+#To create consistent READMES
 
 # Licenses
 #MIT License
@@ -29,5 +29,5 @@
 #1
 
 # How to Initialize project
-#node index.js
+#node index,js
   
